@@ -80,6 +80,9 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
+## Hosted website
+[Huddle-landing-page-with-curved-section](https://godstimenwabue.github.io/Huddle-landing-page-with-curved-section/)
+
 ## Connect with me
 
 [Godstime Nwabue](https://linktr.ee/godstimenwabue)
