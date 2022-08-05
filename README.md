@@ -1,4 +1,4 @@
-![huddle-desktop-outcome](https://user-images.githubusercontent.com/57639474/182977789-f171918a-557c-45fe-af97-c5604f03410e.png)
+
 
 
 ## Welcome! 👋
