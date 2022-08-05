@@ -367,7 +367,7 @@ body {
     }
 
     .build-fans h1 {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .build-fans_img img {
@@ -464,7 +464,7 @@ body {
 
       .contact_box {
         flex-direction: column;
-        padding: 60px 12.5%;
+        padding: 15% 12.5%;
       }
 
       .footer-top-desktop {
@@ -477,7 +477,7 @@ body {
       }
 
       .contact_bgs .space {
-        height: 100vh;
+        height: 125vh;
       }
 
       .contact_box_left {
