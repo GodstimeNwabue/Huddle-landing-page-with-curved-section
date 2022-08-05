@@ -1,5 +1,5 @@
+![huddle-desktop-outcome](https://user-images.githubusercontent.com/57639474/182977789-f171918a-557c-45fe-af97-c5604f03410e.png)
 
-./results/huddle-desktop-outcome.png)
 
 ## Welcome! 👋
 
@@ -54,7 +54,8 @@ Built with HTML, CSS and media queries.
 
 I got stuck on using the background images. I kept experimenting and researching. Learned how to structure background images quite well and how to design them. This is what i later got after experimenting for somewhile. You could also check the outcome on `/results` folder
 
-./images/What i learned.jpg)
+![What i learned](https://user-images.githubusercontent.com/57639474/182977872-64c819a9-980e-4eee-b58c-6132ef0af737.jpg)
+
 
 Also played with media queries, mostly min-width to see if i could make it perfect to an extent
 
